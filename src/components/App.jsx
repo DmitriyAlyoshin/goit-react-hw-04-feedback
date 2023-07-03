@@ -35,7 +35,7 @@ export function App() {
   return (
     <Container>
       <Wrapper>
-        <Section title="Please leave feedback">
+        <Section title="Please leave your feedback">
           <FeedbackOptions
             options={options}
             onLeaveFeedback={onLeaveFeedback}
